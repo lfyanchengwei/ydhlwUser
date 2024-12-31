@@ -1,0 +1,1 @@
+import{c as e,w as t,i as a,o,e as s}from"./index-Cr98tpWe.js";import{_ as n}from"./_plugin-vue_export-helper.BCo6x5W8.js";const r=n({data:()=>({title:"Hello"}),onLoad(){},methods:{}},[["render",function(n,r,d,l,c,i){const p=a;return o(),e(p,{class:"content"},{default:t((()=>[s(" 页面 - 发视频 ")])),_:1})}],["__scopeId","data-v-e4e7882a"]]);export{r as default};
